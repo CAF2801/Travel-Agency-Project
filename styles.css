@@ -97,7 +97,7 @@ header nav ul li a
 #main-image
 {
     height: 580px;
-    background: url(main.jpg) center;
+    background: url(../Travel-Agency-Project/main.jpg) center;
 }
 #main-image h2
 {
@@ -150,15 +150,15 @@ header nav ul li a
 }
 #step-1
 {
-    background: url(steps-icon-1.png) no-repeat center top;
+    background: url(../Travel-Agency-Project/steps-icon-1.png) no-repeat center top;
 }
 #step-2
 {
-    background: url(steps-icon-2.png) no-repeat center top;
+    background: url(../Travel-Agency-Project/steps-icon-2.png) no-repeat center top;
 }
 #step-3
 {
-    background: url(steps-icon-3.png) no-repeat center top;
+    background: url(../Travel-Agency-Project/steps-icon-3.png) no-repeat center top;
 }
 
 /* POSSIBILITIES */
